@@ -150,6 +150,7 @@ body {
     text-align: center;
     margin: 5em 3em;
 }
+
 @media (max-width: 1701px){
     .cabecalho{
       padding: 10%;
@@ -167,3 +168,4 @@ body {
         width: auto;
     }
  }
+
