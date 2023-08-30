@@ -150,3 +150,20 @@ body {
     text-align: center;
     margin: 5em 3em;
 }
+@media (max-width: 1701px){
+    .cabecalho{
+      padding: 10%;
+    }
+
+    .cabecalho__menu{
+      justify-content: center;
+    }
+
+    .apresentacao{
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+    .apresentacao__conteudo{
+        width: auto;
+    }
+ }
